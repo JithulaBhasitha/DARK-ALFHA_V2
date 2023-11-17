@@ -291,7 +291,7 @@ if (kuismath.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
 
             if (budy.toLowerCase() == jawaban) {
 
-                await m.reply(`🎮 Math Quiz 🎮\n\nCorrect Answer 🎉\n\nWant To Play Again? Send ${prefix}math mode`)
+                await m.reply(`🎮 Math Quiz 🎮\n\nBy Little Hacker\n\nCorrect Answer 🎉\n\nWant To Play Again? Send ${prefix}math mode`)
 
                 delete kuismath[m.sender.split('@')[0]]
 
@@ -1494,7 +1494,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 └┬❖  ${pushname} 
 ┌┤✑  ${xeonytimewisher} 😄
 │└────────────┈ ⳹
-│
+│By Little Hacker
 └─ 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊        
 │𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
 │𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}

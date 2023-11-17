@@ -1,9 +1,9 @@
 
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=642D2DAE&center=true&vCenter=true&width=435&lines=The+is+Dark+Alfha+WhatsApp+Use+Bot;Created+by++Deep+Eagle" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=642D2DAE&center=true&vCenter=true&width=435&lines=The+is+The+X+WhatsApp+Use+Bot;Created+by++Little+Hacker" alt="Typing SVG" /></a>
                                                                                                                                                                       </div>                                                                    
   <div align="center">
-  <img src="https://i.ibb.co/frfFSTL/1691320469926.jpg" width="150" height="150" border="0" alt="PFP">
+  <img src="https://i.ibb.co/mCs8p89/cover.png" width="150" height="150" border="0" alt="PFP">
 
 </div>
 
@@ -11,8 +11,8 @@
 
 ---
 
-<p align="center"> Dark Alfha සදහා භාවිතා කරපු project එක
-  <a href="https://github.com/Deep-Eagle/Baileys">Baileys.</a>
+<p align="center"> Follow Me
+  <a href="https://github.com/LittleHacker999">Click Here.</a>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  The Creatordark <a href="https://github.com/Deep-Eagle"><b> DEEP EAGLE </b></a>
+  The Creatordark <a href="https://github.com/LittleHacker999"><b> DEEP EAGLE </b></a>
 </p>
 
 <p align="center">
@@ -32,14 +32,14 @@
 </p>
 <p align="center">
   <a href="https://heroku.com/deploy?template=https://github.com/Deep-Eagle/DARK-ALFHA_V2/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-  <a href="https://repl.it/github/Deep-Eagle/DARK-ALFHA_V2"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
+  <a href="https://repl.it/github/JithulaBhasitha/The-X-V2"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
 </p>
-<p><a href="https://chat.whatsapp.com/KcPuqvBcES9Iv65QYxkvPT" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a></p>
+<p><a href="https://chat.whatsapp.com/EfZVsh1ruvO9KTV0n80KVD" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a></p>
 ## Tutorial
 
 Here's a tutorial to set up Dark Alfha on your own account in *less than 7 minutes.* The tutorial for which is attached below.
 
-[![How to deploy](https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube)](https://youtu.be/ktpOhVyct9s)
+[![Uploding Soon](https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube)](YT Link)
 
 ```bash
 npm install
@@ -51,23 +51,23 @@ MONGODB URL එකක් අනිවාර්ය බැවින් MongoDB URL
 
 ```bash
 PREFIX=!
-MODS=94763407452
+MODS=94786874741
 PORT=3000
 WRITE_SONIC=
 BG_API_KEY=
-SESSION=ඔයා කැමති එකක් දෙන්න
+SESSION=By Little Hacker
 URL=mongodb+srv://<username>:<password>@cluster0.xxwc771.mongodb.net/?retryWrites=true&w=majority
 ```
 
 ##LAST UPDATE
 ```bash
-DATE = 2023/10/10
-TIME = 2:42 am
+DATE = 2023/11/17
+TIME = 6.16 pm
 ```
 
 <div align="center">
 
 ### Thanks for team members
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=43FF0D&background=5BFF0000&center=true&vCenter=true&multiline=true&width=435&height=120&lines=DARK+ALFHA+TEME;MR+Ruchira;MR++SayitamAnuwa;MR+Madusanka" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=43FF0D&background=5BFF0000&center=true&vCenter=true&multiline=true&width=435&height=120&lines=Bit+X+Team;Little+Hacker;Jithula;BlackAnt" alt="Typing SVG" /></a>
 </div>
